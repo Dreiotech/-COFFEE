@@ -1,0 +1,11 @@
+body{
+
+    background-image: url("https://www.codingnepalweb.com/demos/create-responsive-coffee-website-html-css/hero-bg.jpg");
+}
+th,td{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 60px;
+    margin:40 px;
+}
